@@ -1,3 +1,10 @@
+---
+title: react
+date: 2019-01-28 15:52:21
+tags: react
+categories: react
+---
+
 ## react 基本语法
 ### 组件内部状态 state
 
@@ -11,7 +18,7 @@ dosomething = (参数) => {
     do...
 }
 ```
-
+<!--more-->
 
 ### 事件处理
 
