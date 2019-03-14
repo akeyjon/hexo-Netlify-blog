@@ -1,5 +1,5 @@
 ---
-title: react
+title: idea
 date: 2019-03-14 15:52:21
 tags: idea
 categories: idea
